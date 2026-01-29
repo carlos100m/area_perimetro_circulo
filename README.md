@@ -11,7 +11,7 @@ programa en Phyton para calcular el area y el perimetro de un circulo, dado el v
 - a: Area del circulo
 - p: Perimetro del circulo
 
-$a: \pi*r*r$
+$a: \pi*r²$
 
 $p: 2*\pi+r$
 
