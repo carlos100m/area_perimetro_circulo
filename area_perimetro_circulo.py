@@ -18,12 +18,12 @@ r=int(r)
 # Proceso
 # --------------------------------------------------------------------------
 a=math.pi*r**2
-p=z*math.pi*r
+p=2*math.pi*r
 
 # --------------------------------------------------------------------------
 # Salida
 # --------------------------------------------------------------------------
 
 print("---------------Resultado------------------")
-print("El area del circulo es"+str(a)+"cm")
-print("El perimetro del circulo es:"str(p)+"cm")
+print("El area del circulo es: "+str(a)+"cm")
+print("El perimetro del circulo es: "+str(p)+"cm")
